@@ -10,6 +10,6 @@ HR Master Data - Source: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-an
 - Flight Risk (ML)
 - Turnover Monitor
 - Internal Labour Market Map
-- Jobindex/Glassdoor scraper
+- Employer review scraper
 - Engagement Drivers
 
